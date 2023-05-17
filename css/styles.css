@@ -8,3 +8,14 @@ img {
   display: block;
   max-width: 100%;
 }
+
+header {
+  background-image: url('../img/bg-title.webp');
+  background-size: cover;
+  color: white;
+  font-family: 'Barlow', sans-serif;
+}
+
+em {
+  font-weight: lighter;
+} 
